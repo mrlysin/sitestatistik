@@ -33,10 +33,10 @@ class Database extends \CodeIgniter\Database\Config
 	 */
 	public $default = [
 		'DSN' => '',
-		'hostname' => 'inspektorat.kendalkab.go.id',
-		'username' => 'inspektoratkenda_counter',
-		'password' => 'Counter&Statistik44',
-		'database' => 'inspektoratkenda_statistik',
+		'hostname' => '',
+		'username' => '',
+		'password' => '',
+		'database' => '',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,

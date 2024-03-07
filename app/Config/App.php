@@ -23,11 +23,7 @@ class App extends BaseConfig
 	   | environments.
 	   |
 	   */
-	// public $baseURL = 'http://inspekt.com/';
-	// public $baseURL = 'http://localhost/viewercounter/';
-	// public $baseURL = 'https://ezgez.com/revenue/statistik/';
-	// public $baseURL = 'http://demo.inspektorat.com/';
-	public $baseURL = 'http://demo.viewercounter.com/';
+	public $baseURL = 'http://localhost/sitestatistik/';
 
 	/*
 	   |--------------------------------------------------------------------------
